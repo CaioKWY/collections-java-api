@@ -1,4 +1,4 @@
-package OperacoesBasicas;
+package ListaTarefas;
 
 public class Tarefa {
     //attribute
