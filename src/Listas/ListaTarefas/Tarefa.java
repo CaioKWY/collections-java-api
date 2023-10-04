@@ -1,4 +1,4 @@
-package ListaTarefas;
+package Listas.ListaTarefas;
 
 public class Tarefa {
     //attribute
